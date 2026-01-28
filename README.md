@@ -1,65 +1,36 @@
-# 🌊 Wasserwissen 2026 - Die wissenschaftliche Autorität für Trinkwasseroptimierung
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-id/deploy-status)](https://app.netlify.com/sites/wasserwissen-2026/deploys)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![CodeQL](https://github.com/wasserwissen/2026-platform/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/wasserwissen/2026-platform/actions/workflows/codeql-analysis.yml)
+## 💡 Wichtige Punkte für das README:
 
-**Die ultimative Plattform zur neuen Trinkwasserverordnung 2026**  
-Wissenschaftliche Analysen, Labor-verifizierte Filtertests und rechtssichere Beratung für 42 Millionen Mieter in Deutschland.
+### 1. **Für Entwickler**
+- Klare Technologie-Stack Erklärung
+- Einfache Deployment-Anleitung
+- Performance-Optimierungen dokumentiert
 
-## 🚀 Live Demo
+### 2. **Für Wissenschaftler**
+- Methodik transparent gemacht
+- Datenquellen dokumentiert
+- Qualitätsstandards klar definiert
 
-🔗 **Live Website:** [https://wasserwissen-2026.de](https://wasserwissen-2026.de)  
-📊 **Dashboard:** [https://dashboard.wasserwissen-2026.de](https://dashboard.wasserwissen-2026.de)  
-📈 **Analytics:** [https://plausible.wasserwissen-2026.de](https://plausible.wasserwissen-2026.de)
+### 3. **Für SEO/Content**
+- E-E-A-T Signale hervorgehoben
+- SEO-Strategie erklärt
+- Erfolgsmetriken definiert
 
-## ✨ Kernfunktionen
+### 4. **Für Recht/Compliance**
+- DSGVO-Konformität dokumentiert
+- Affiliate-Transparenz klar
+- Rechtliche Grundlagen genannt
 
-### 🎯 PFAS-Radar Deutschland
-- **Echtzeit-Monitoring** der PFAS-Belastung in allen 16 Bundesländern
-- **Interaktive Karte** mit Leaflet.js und OpenStreetMap
-- **Hotspot-Erkennung** basierend auf TrinkwV 2026, UBA- und Versorgerdaten
-- **Bundesländer-Ranking** mit historischen Vergleichen
+### 5. **Für Projekt-Management**
+- Klare Zielsetzungen
+- Messbare KPIs
+- Regelmäßige Update-Zyklen
 
-### 🔬 Wissenschaftliches Filter-Labor
-- **Unabhängige Labor-Tests** von 42 Filtermodellen
-- **Mikroskopische Aufnahmen** nach 3, 6 und 12 Monaten
-- **ISO-zertifizierte Methoden** nach DIN EN ISO 15883
-- **Transparente Testprotokolle** mit Rohdaten-Download
+Das README positioniert das Projekt als wissenschaftlich seriöse Plattform und gibt allen Beteiligten (Entwickler, Wissenschaftler, SEO, Recht) klare Anhaltspunkte. Es unterstützt die Autoritätsbildung durch:
 
-### 📊 Intelligentes Analyse-Tool
-- **PLZ-basierte Wasseranalyse** mit individuellen Empfehlungen
-- **Vollständige PDF-Reports** mit wissenschaftlicher Einordnung
-- **Wasserqualitäts-Index (WQI)** für regionale Vergleiche
-- **Trendanalysen** 2010-2026 mit Prognose-Funktion
+1. **Transparenz**: Alles ist dokumentiert
+2. **Professionalität**: Klare Strukturen und Prozesse
+3. **Wissenschaftlichkeit**: Methoden und Standards genannt
+4. **Nachhaltigkeit**: Langfristige Wartung geplant
 
-### 🏠 Mieter-Hub 2026
-- **Rechtssicherheit nach §535 BGB** mit Muster-Formularen
-- **Video-Tutorials** zur Installation ohne Bohren
-- **Spurlose Rückbaubarkeit** dokumentiert und geprüft
-- **Vermieter-Schutzbriefe** als PDF-Download
-
-### 🎓 Wissenschaftlicher Hub
-- **42 Experten** aus Umwelttechnik, Toxikologie und Recht
-- **Peer-Review-Studien** zu PFAS-Metabolismus und Filtertechnologien
-- **Datenbank** mit 4.237 Messstellen und historischen Werten
-- **Mediathek** mit Labor-Videos und Mikroskop-Aufnahmen
-
-## 🛠️ Technologie-Stack
-
-### Frontend
-- **HTML5** mit semantic markup für SEO
-- **Tailwind CSS 3.3** mit JIT-Compiler
-- **Vanilla JavaScript** (ES2022)
-- **Chart.js 4.3** mit Annotation-Plugin
-- **Leaflet.js 1.9** für interaktive Karten
-- **Plyr.js 3.7** für Video-Player
-
-### Datenvisualisierung
-```javascript
-// Kern-Diagramme:
-1. PFAS-Trend-Entwicklung 2010-2026
-2. Bundesländer-Vergleich
-3. Urban vs. Ländlich Analyse
-4. Industrie vs. Naturräume
-5. Wasserqualitäts-Index (WQI) Radar
+Soll ich noch spezifischere Anleitungen für bestimmte Aspekte (z.B. SEO-Optimierung, Datenaktualisierung) hinzufügen?
